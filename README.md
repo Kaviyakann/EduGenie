@@ -1,0 +1,2 @@
+# EduGenie
+education purpose
