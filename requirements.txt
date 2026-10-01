@@ -1,0 +1,13 @@
+fastapi>=0.100.0
+uvicorn[standard]>=0.22.0
+jinja2>=3.1.0
+pydantic>=2.0.0
+pydantic-settings>=2.0.0
+python-dotenv>=1.0.0
+google-genai>=0.1.0
+httpx>=0.24.0
+
+# Optional for local LaMini-Flan-T5 model
+# Uncomment if local model execution is desired:
+# transformers>=4.30.0
+# torch>=2.0.0
